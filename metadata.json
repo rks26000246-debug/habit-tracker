@@ -1,0 +1,6 @@
+{
+  "name": "Habit Tracker",
+  "description": "A modern, responsive habit tracking app to help you stay consistent and productive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
